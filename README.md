@@ -54,3 +54,16 @@ This repository contains three academic projects completed as part of **SIT720: 
 - **Feature importance analysis and ensemble methods**
 
 ---
+
+## Prerequisites
+
+- **Python 3.7+**
+- **Jupyter Notebook**
+- **Required Libraries:**
+
+## Results
+
+- **Children’s Disability Assessment:** Identified subgroups and optimal features for personalized interventions.
+- **Air Conditioner Status Prediction:** Achieved high accuracy in predicting air conditioner status using ensemble models.
+- **Forest Fire Area Prediction:** Evaluated multiple models and feature sets, identifying the most effective predictors for burned area.
+
